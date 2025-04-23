@@ -93,9 +93,7 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://media.giphy.com/media/2uIm1r0XZlBJiVoQFl/giphy.gif" alt="Lion Animation" width="500">
 </div>
 
 <div align="center">
